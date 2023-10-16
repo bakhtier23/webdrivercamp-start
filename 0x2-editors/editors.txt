@@ -1,0 +1,17 @@
+EMACS
+0. What is the command to open a file from within Emacs? Answer is:  C-x C-f
+1. What is the command to save a file? Answer is: C-x C-s
+2. What is the command to cut an entire line? Answer is: C-k
+3. What is the command to paste? Answer is: C-y
+4. What is the command to search forward? Answer is: C-s
+5. What is the command to undo? Answer is: C-u
+6. What is the command to quit Emacs? Answer is: C-x C-c
+
+Vi
+7. What is the command to insert text before the cursor? Answer is: i
+8. What is the command to delete and cut the current line? Answer is: dd
+9. What is the command to paste the lines in the buffer into the text after the current line? Answer is: p
+10. What is the command to undo what you just did? Answer is: u
+11. What is the command to quit vi even though latest changes have not been saved for this vi call? Answer is: :q!
+12. What is the command to move the cursor to the start of the current line?Answer is: 0
+13. What is the command to move the cursor to the end of the line? $
